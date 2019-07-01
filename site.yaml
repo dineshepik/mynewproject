@@ -3,5 +3,5 @@
   become: true
   become_user: root
   roles:
-  - chrome
+  - docker
 
